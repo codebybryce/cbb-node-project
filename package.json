@@ -1,0 +1,12 @@
+{
+    "name": "cbb-node-project",
+    "version": "1.0.0",
+    "description": "A blank node project",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "keywords": ["node", "npm", "package"],
+    "author": "Bryce Robinson @codebybryce",
+    "license": "MIT"
+}
