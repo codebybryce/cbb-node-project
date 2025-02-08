@@ -1,4 +1,12 @@
-```perl
+# Basic Node Project Template
+
+## Get Started
+
+```
+git clone https://github.com/codebybryce/cbb-node-project.git
+```
+
+```bash
 cbb-node-project/
 │── node_modules/        # Installed dependencies (auto-generated)
 │── src/                 # Main source code
