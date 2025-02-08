@@ -2,6 +2,8 @@
 
 ## Get Started
 
+Select Use this template in the upper-right corner of git-hub.
+
 ```
 git clone https://github.com/codebybryce/cbb-node-project.git
 ```
